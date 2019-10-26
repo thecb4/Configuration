@@ -1,5 +1,5 @@
 
-import TSCUtility
+@_exported import TSCUtility
 
 public enum ConfigurationError: Error {
   case error(description: String)
