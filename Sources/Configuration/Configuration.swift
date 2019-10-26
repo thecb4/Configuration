@@ -20,6 +20,11 @@ public class Configuration {
     var kind: ArgumentType.Type {
       ArgumentType.self
     }
+    
+    public init(name: String) {
+      self.name = name
+    }
+    
   }
 
   private static let shared: Configuration = {
