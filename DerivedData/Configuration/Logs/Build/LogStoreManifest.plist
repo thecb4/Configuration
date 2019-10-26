@@ -5,6 +5,143 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>0E2DA024-0D47-4A1C-91D2-41735DB59260</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>0E2DA024-0D47-4A1C-91D2-41735DB59260.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Configuration</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Configuration</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Configuration</string>
+			<key>timeStartedRecording</key>
+			<real>593813103.00646901</real>
+			<key>timeStoppedRecording</key>
+			<real>593813105.18408406</real>
+			<key>title</key>
+			<string>Build Configuration</string>
+			<key>uniqueIdentifier</key>
+			<string>0E2DA024-0D47-4A1C-91D2-41735DB59260</string>
+		</dict>
+		<key>7A5823D0-B70F-4149-95F6-03DAB18DAFED</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7A5823D0-B70F-4149-95F6-03DAB18DAFED.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Configuration</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Configuration</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Configuration</string>
+			<key>timeStartedRecording</key>
+			<real>593813089.04693401</real>
+			<key>timeStoppedRecording</key>
+			<real>593813089.20989597</real>
+			<key>title</key>
+			<string>Build Configuration</string>
+			<key>uniqueIdentifier</key>
+			<string>7A5823D0-B70F-4149-95F6-03DAB18DAFED</string>
+		</dict>
+		<key>8B0B149B-8681-4AB4-93EA-A46300420DA9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8B0B149B-8681-4AB4-93EA-A46300420DA9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Configuration</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Configuration</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Configuration</string>
+			<key>timeStartedRecording</key>
+			<real>593813081.95239997</real>
+			<key>timeStoppedRecording</key>
+			<real>593813082.25066805</real>
+			<key>title</key>
+			<string>Build Configuration</string>
+			<key>uniqueIdentifier</key>
+			<string>8B0B149B-8681-4AB4-93EA-A46300420DA9</string>
+		</dict>
+		<key>C882A426-B89E-40E2-96E1-E9535D6F148F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C882A426-B89E-40E2-96E1-E9535D6F148F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Configuration</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Configuration</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Configuration</string>
+			<key>timeStartedRecording</key>
+			<real>593813206.73539197</real>
+			<key>timeStoppedRecording</key>
+			<real>593813209.009884</real>
+			<key>title</key>
+			<string>Build Configuration</string>
+			<key>uniqueIdentifier</key>
+			<string>C882A426-B89E-40E2-96E1-E9535D6F148F</string>
+		</dict>
+	</dict>
 </dict>
 </plist>
