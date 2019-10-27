@@ -2,7 +2,7 @@
 @_exported import TSCUtility
 
 extension String {
-  var posix: String {
+  public var posix: String {
     "--" + self
   }
 }
