@@ -51,7 +51,7 @@ public class Configuration {
     try? shared.results?.get(argument.posix)
   }
   
-  static func parse(_ arguments: [String]) throws {
+  public static func parse(_ arguments: [String]) throws {
     
     do {
       print(arguments)
