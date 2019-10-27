@@ -2,20 +2,11 @@
   "object": {
     "pins": [
       {
-        "package": "llbuild",
-        "repositoryURL": "https://github.com/apple/swift-llbuild.git",
+        "package": "swift-argument-parser",
+        "repositoryURL": "https://github.com/thecb4/swift-argument-parser.git",
         "state": {
           "branch": "master",
-          "revision": "0a778ca0c51025ffec95de881e59eb35c92f9944",
-          "version": null
-        }
-      },
-      {
-        "package": "SwiftPM",
-        "repositoryURL": "https://github.com/thecb4/swift-package-manager.git",
-        "state": {
-          "branch": "master",
-          "revision": "a35e303cc9449d5b238cb3de2f181aebc830a282",
+          "revision": "1531c15fc04120902f625f963c232f3d68fa681c",
           "version": null
         }
       }
