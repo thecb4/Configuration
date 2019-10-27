@@ -1,6 +1,12 @@
 
 @_exported import TSCUtility
 
+extension String {
+  var posix: String {
+    "--" + self
+  }
+}
+
 public enum ConfigurationError: Error {
   case error(description: String)
 }
@@ -13,10 +19,6 @@ public class Configuration {
     
     let name: String
 
-    var posix: String {
-      "--\(name)"
-    }
-    
     var kind: ArgumentType.Type {
       ArgumentType.self
     }
@@ -40,15 +42,15 @@ public class Configuration {
   }
   
   public static func add<T: ArgumentKind>(argument: Configuration.Argument<T>) {
-    _ = shared.parser.add(option: argument.posix, kind: T.self)
+    _ = shared.parser.add(option: argument.name, kind: T.self)
   }
   
   public static func get<T>(argument: Configuration.Argument<T>) -> T? {
-    try? shared.results?.get(argument.posix)
+    try? shared.results?.get(argument.name)
   }
   
   public static func get<T>(argument: Configuration.Argument<T>) -> [T]? {
-    try? shared.results?.get(argument.posix)
+    try? shared.results?.get(argument.name)
   }
   
   public static func parse(_ arguments: [String]) throws {
